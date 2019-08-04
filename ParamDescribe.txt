@@ -1,0 +1,35 @@
+平衡车引脚分配图
+
+1.MPU6050
+
+	SCL		PA4
+	SDA		PA5
+
+2.直流电机
+
+	PWMA	TIM9->CCR1
+	PWMB	TIM9->CCR2
+	AIN1	PB12
+	AIN2	PB13
+	BIN1	PB14
+	BIN2	PB15
+	
+3.HC05蓝牙
+
+	TXD		PB10
+	RXD		PB11
+	
+4.ADC电压采集
+	ADC		PA5
+
+
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
